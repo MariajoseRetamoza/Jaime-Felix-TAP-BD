@@ -1,6 +1,6 @@
-# Proyecto: Facturación MVC
+# Proyecto: Catálogo de Empleados MVC con BD
 
-Elaborar una aplicación de Facturación en entorno Windows usando la arquitectura MVC. La aplicación debe tener catálogo de Artículos, catálogo de Clientes y la opción de Ventas (Facturación)
+Elaborar una aplicación de Catálogo de Empleados en entorno Windows usando la arquitectura MVC y Bases de Datos.
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
